@@ -35,10 +35,12 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
 unzip awscliv2.zip
 sudo ./aws/install
 ```
-Please make sure you have the following OU creates
+Please make sure you have the following OU created on control tower
 * archive
 * external
 * suspended
+
+Once you have above OY created, update the OU Ids here [accountscleanup.py](/accountscleanup.py)
 
 
 ## Environment Setup
