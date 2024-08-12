@@ -65,7 +65,7 @@ aws sts get-called-identity
 ```
 
 
-## Managing the AWS Accounts for Moving OU, Internal or External Transfer
+## Managing the AWS Accounts for Moving OU, Internal or External Transfer, Close account
 
 ### Supported operations
 #### external-org-start
@@ -108,6 +108,15 @@ if you are considering deleting all the resources within an AWS account consider
 ```
 https://github.com/rebuy-de/aws-nuke
 ```
+
+## Renaming the AWS Account
+
+Renaming of AWS Account is yet not supported  by AWS API, please follow the following guide to rename the AWS Account 
+```
+[https://github.com/rebuy-de/aws-nuke](https://docs.aws.amazon.com/controltower/latest/userguide/change-account-name.html)
+```
+
+
 
 ## License
 
