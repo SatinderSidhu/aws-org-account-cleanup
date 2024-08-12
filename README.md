@@ -111,9 +111,9 @@ https://github.com/rebuy-de/aws-nuke
 
 ## Renaming the AWS Account
 
-Renaming of AWS Account is yet not supported  by AWS API, please follow the following guide to rename the AWS Account 
+Renaming of AWS Account is yet not supported  by AWS API, please follow the [this](https://docs.aws.amazon.com/controltower/latest/userguide/change-account-name.html_ guide to rename the AWS Account 
 ```
-[https://github.com/rebuy-de/aws-nuke](https://docs.aws.amazon.com/controltower/latest/userguide/change-account-name.html)
+https://docs.aws.amazon.com/controltower/latest/userguide/change-account-name.html
 ```
 
 
