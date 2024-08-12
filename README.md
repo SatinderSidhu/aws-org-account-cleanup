@@ -102,7 +102,14 @@ Here is an example to see all supported operations available in the sample scrip
 python3 delete-sso-accounts.py delete_sso_accounts_bulk  --filename delete-sso-accounts.csv
 ```
 
+## Deleting all resources in AWS Accounts
+
+if you are considering deleting all the resources within an AWS account consider this [aws nuke](https://github.com/rebuy-de/aws-nuke)
+```
+https://github.com/rebuy-de/aws-nuke
+```
+
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the MIT-0 License. See the LICENSE file. Please verify this script before running in your production environment, We are not responsible for any damages
 
