@@ -40,7 +40,7 @@ Please make sure you have the following OU created on control tower
 * external
 * suspended
 
-Once you have above OY created, update the OU Ids here [accountscleanup.py](/accountscleanup.py)
+Once you have above OY created, update the OU Ids here [accountscleanup.py](/https://github.com/SatinderSidhu/aws-org-account-cleanup/blob/main/accountscleanup.py#L17)
 
 
 ## Environment Setup
