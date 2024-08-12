@@ -1,0 +1,8 @@
+accountname,awsaccountid,action,sourceou,targetou,newrootemail,
+Test-account-26,010438497368,external-org-start,Sandbox (ou-tacd-94yat1mt),External (ou-tacd-hrb2mnda),sidhusat+test-account-new-sso-26@abc.com, newaccountnmae26
+Test-account-3,211125683999,external-org-finish,,,sidhusat+test-account-new-sso-3@abc.com, newaccountnmae
+Test-Account-6,891377082514,internal,External (ou-tacd-hrb2mnda),Sandbox (ou-tacd-94yat1mt),sidhusat+test-account-new-sso-6@abc.com,TestAccountNew6
+Test-Account-5,590184049166,close,,,sidhusat+test-account-new-sso-5@abc.com,newaccountname
+Test-Account-5,590184049166,archive,,,sidhusat+test-account-new-sso-5@abc.com,newaccountname
+Test-Account-20,008971638784,archive,,,,
+Test-Account-27,010438497151,close,,,,

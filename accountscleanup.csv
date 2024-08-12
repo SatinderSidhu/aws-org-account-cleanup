@@ -1,0 +1,3 @@
+accountname,awsaccountid,action,sourceou,targetou,newrootemail,newaccountname
+Test-Account-17,008971637984,internal,Sandbox (ou-tacd-94yat1mt),internal-transfer (ou-tacd-fwpz720y),sidhusat+test-account-new-sso-17@amazon.com,NewAccountName17
+
